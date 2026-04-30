@@ -1,0 +1,5 @@
+ata/
+__pycache__/
+*.pyc
+.env
+.venv/
